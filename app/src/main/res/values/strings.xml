@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <string name="home">Home</string>
+    <string name="playlist">Playlist</string>
+    <string name="songs">Songs</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+
+    <string name="genre">Genre</string>
+    <string name="settings">Settings</string>
+
+    <string name="first_playlist">Gym</string>
+    <string name="second_playlist">Relax</string>
+    <string name="third_playlist">Sleeping</string>
+    <string name="fourth_playlist">Studying</string>
+    <string name="fifth_playlist">Gaming</string>
+    <string name="sixth_playlist">Running</string>
+    <string name="seventh_playlist">Mix</string>
+
+    <string name="firstSong">Future - Life Is Good</string>
+    <string name="secondSong">Eminem - Godzilla</string>
+    <string name="thirdSong"> Selena Gomez - Rare</string>
+    <string name="fourthSong">Anne Marie - Birthday</string>
+    <string name="fifthSong">Maroon 5 - Memories</string>
+    <string name="sixthSong">Asher Angel - Chills</string>
+    <string name="seventhSong">Post Malone - Circles</string>
+
+    <!--list of artists names-->
+    <string name="artist1">Post Malone</string>
+    <string name="artist2">Ariana Grande</string>
+    <string name="artist3">Billie Eilish</string>
+    <string name="artist4">Taylor Swift</string>
+    <string name="artist5">Ed Sheeran</string>
+    <string name="artist6">Jonas Brothers</string>
+    <string name="artist7">Travis Scott</string>
+    <string name="artist8">DaBaby</string>
+    <string name="artist9">Cardi B</string>
+    <string name="artist10">Shawn Mendes</string>
+    <string name = "artist11">Lizzo</string>
+    <string name="artist12">Meek Mill</string>
+    <string name="artist13">Queen</string>
+    <string name="artist14">Maroon 5</string>
+    <string name="artist15">Imagine Dragons</string>
+
+</resources>
