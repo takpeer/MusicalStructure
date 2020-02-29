@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".GenreActivity"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".MainActivity"
+                  android:label="Genre">
 
         </activity>
         <activity android:name=".MainActivity">
